@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Plugin Name: GM Inventory Search
  * Plugin URI: http://gladiator-media.com
